@@ -24,7 +24,6 @@ Welcome to my GitHub! I'm passionate about **Neural Networks, Deep Learning, and
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/setare-mesbah-5a3683305/)
-- 📝 [Blog](#) *(If you write about machine learning, add your blog link!)*
 - 📧 [Email](mailto:setarems@gmail.com)
 
 Feel free to check out my projects and contribute! Let's build the future of technology together. 🚀
